@@ -1,4 +1,4 @@
-FROM debian:bullseye
+FROM registry.hub.docker.com/debian:11.6
 
 COPY . .
 
